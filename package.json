@@ -1,14 +1,17 @@
 {
-  "name": "users-caalbu-desktop-projects-web-webapp",
+  "name": "lautar-website",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
+    "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^5.17.1"
+    "astro": "^4.16.18",
+    "@astrojs/node": "^8.3.4",
+    "googleapis": "^144.0.0",
+    "nodemailer": "^6.9.15"
   }
 }
