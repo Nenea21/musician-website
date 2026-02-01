@@ -88,7 +88,7 @@ export async function POST({ request }) {
   <div class="container">
     <div class="header">
       <h1 style="margin: 0;">🎻 Rezervare Nouă</h1>
-      <p style="margin: 5px 0 0 0;">Aurel Dinu - Lăutar</p>
+      <p style="margin: 5px 0 0 0;">Aurel Dinu</p>
     </div>
     
     <div class="content">
@@ -147,7 +147,7 @@ export async function POST({ request }) {
 
     // Plain text version
     const textBody = `
-Rezervare Nouă - Aurel Dinu Lăutar
+Rezervare Nouă - Aurel Dinu
 
 DETALII CLIENT
 ━━━━━━━━━━━━━━━━━━━━━
